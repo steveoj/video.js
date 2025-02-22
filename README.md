@@ -1,8 +1,7 @@
 [![Video.js logo][logo]][vjs]
 
-# Video.js® - Web Video Player
-
-[![NPM][npm-icon]][npm-link]
+# Video.js® - Web <link href="//vjs.zencdn.net/8.22.0/video-js.min.css" rel="stylesheet">
+<script src="//vjs.zencdn.net/8.22.0/video.min.js"></script>
 
 Video.js is a full featured, open source video player for all web-based platforms.
 
