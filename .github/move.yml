@@ -7,13 +7,13 @@ deleteCommand: true
 closeSourceIssue: true
 
 # Lock the source issue after moving
-lockSourceIssue: false
+lockSourceIssue: true
 
 # Mention issue and comment authors
 mentionAuthors: true
 
 # Preserve mentions in the issue content
-keepContentMentions: false
+keepContentMentions: true
 
 # Set custom aliases for targets
 # aliases:
