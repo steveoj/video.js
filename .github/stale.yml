@@ -7,14 +7,7 @@ daysUntilStale: 60
 # Set to false to disable. If disabled, issues still need to be closed manually, but will remain marked as stale.
 daysUntilClose: 7
 
-# Issues or Pull Requests with these labels will never be considered stale. Set to `[]` to disable
-exemptLabels:
-  - pinned
-  - a11y
-  - "Affects: a11y"
-  - confirmed
-  - security
-  - "[Status] Maybe Later"
+# Issues or Pull Requests with these labels will never be considered stale. Set to `[]` to 
 
 # Set to true to ignore issues in a project (defaults to false)
 exemptProjects: false
